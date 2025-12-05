@@ -1,2 +1,1 @@
-# AI-RAG
-Its a Complete rag system 
+# AI-Tutor
